@@ -1,6 +1,6 @@
 ####Go to [thomaschampagne/stravistix](https://github.com/thomaschampagne/stravistix) if you want to develop in **stravistix** repository
 
-####This repository is a "**channel**" for **testing purpose only**. To be zip downloaded or git cloned/pull..
+####This repository is for **testing purpose only**. It's a kind of "**development channel**" . To be zip downloaded or git cloned/pull..
 
 ####A zip package or "git clone/pull" of this repository is ready to be loaded into your chrome based browser.
 
